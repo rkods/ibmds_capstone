@@ -1,1 +1,1 @@
-# Home directory of IBM DS Capstone
+# Home directory of IBM Data Science Capstone
